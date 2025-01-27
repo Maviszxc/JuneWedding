@@ -99,16 +99,6 @@ export function Details() {
           </div>
         </motion.section>
 
-        {/* Gift Registry */}
-        <motion.section className="text-center" {...fadeInUp}>
-          <div className="bg-white p-12 rounded-2xl shadow-lg">
-            <Gift className="w-12 h-12 text-navy-600 mx-auto mb-6" />
-            <h2 className="text-3xl font-serif text-navy-900 mb-4">Gift Registry</h2>
-            <p className="text-gray-600 max-w-2xl mx-auto">
-              Your presence at our wedding is the greatest gift of all. However, if you wish to honor us with a gift, we have registered at the following stores.
-            </p>
-          </div>
-        </motion.section>
       </div>
     </motion.div>
   );
