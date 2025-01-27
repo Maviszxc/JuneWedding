@@ -27,7 +27,7 @@ export function Logo({ className = "w-10 h-10" }: LogoProps) {
         }}
       >
         <img
-          src="/src/assets/images/logo.png"
+          src="/src/assets/images/logow.png"
           alt="Wedding Logo"
           className="w-full h-full object-contain"
         />
